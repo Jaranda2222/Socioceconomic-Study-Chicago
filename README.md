@@ -1,2 +1,3 @@
 # Socioceconomic-Study-Chicago
-An analysis on crime in chicago and socioeconomic status in the various zip codes. 
+An analysis on crime in Chicago and socioeconomic status in the various zip codes.
+This report looks to analyze crime statistics taken from the City of Chicago Data Portal as well as Socioeconomic data from the 2010 census. The goal of the report is to analyze crime trends in the city of Chicago in comparison to community areas; as well as to compare crime with socioeconomic data. A correlation was ran between socioeconomic indicators and crime. This allowed for us to run a k-Nearest Neighbor (KNN) algorithm in order to pinpoint similar neighborhoods and their trends. The main objectives to be accomplished through this analysis is to have a standardize method supported by machine learning to measure socioeconomic improvements in different zip codes throughout the city.
